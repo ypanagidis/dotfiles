@@ -27,7 +27,7 @@ alias cup="cd ~/Developer/Work/UP"
 alias cm="cd ~/Developer/Work/UP/skyflow-mono"
 alias ncm="cd ~/Developer/Work/UP/skyflow-mono && tmux new-s mono" 
 alias ccnv="cd ~/.config/nvim/"
-alias nvim-lazy="NVIM_APPNAME=nvim-lazy nvim"
+alias nvim-lazy="NVIM_APPNAME=nvim-lazyVim nvim"
 alias n="nvim"
 
 
