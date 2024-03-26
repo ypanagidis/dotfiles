@@ -29,6 +29,8 @@ alias ncm="cd ~/Developer/Work/UP/skyflow-mono && tmux new-s mono"
 alias ccnv="cd ~/.config/nvim/"
 alias nvim-lazy="NVIM_APPNAME=nvim-lazyVim nvim"
 alias n="nvim"
+alias p="pnpm"
+alias px="pnpm dlx"
 
 
 # Set list of themes to pick from when loading at random
